@@ -40,7 +40,7 @@ We encourage you to explore these references for additional learning resources a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it in accordance with the terms of the license.
 
 ---
 
