@@ -1,6 +1,6 @@
-# Math_with_Python
+# Maths_with_Python
 
-Math_with_Python is a comprehensive repository of hands-on demo code for fundamental mathematical subjects essential for machine learning, deep learning, data science, and related fields. This project provides practical Python code examples for topics including linear algebra, calculus, probability, and statistics.
+Maths_with_Python is a comprehensive repository of hands-on demo code for fundamental mathematical subjects essential for machine learning, deep learning, data science, and related fields. This project provides practical Python code examples for topics including linear algebra, calculus, probability, and statistics.
 
 ## Table of Contents
 
